@@ -10,6 +10,7 @@
 	<copyright>See COPYRIGHT.txt</copyright>
 	<license>GNU Public License Version 2</license>
 	<admin_interface>advanced</admin_interface>
+	<activate_on_install>true</activate_on_install>
 	<screenshot>
 		<path>screenshots/ss1.png</path>
 		<description>The tabbed profile</description>
